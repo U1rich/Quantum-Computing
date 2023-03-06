@@ -1,0 +1,2 @@
+##[[Computacion Tradicional]]
+La computacion tradicional es un metodo de computo que hace uso del sistema binario para representar datos. Es decir; las computadoras que usamos a diario transforman pulsos electricos en ceros y unos, siendo un voltaje "0" un 0 logico y 3.3 o 5 volts un 1 logico. De esta anera mediante transistores dentro de un procesador logramos transformar todos estos pulsos en informacion.

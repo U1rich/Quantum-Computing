@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "Articulos",
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "es-MX",
+    "en-GB-oxendict"
+  ]
+}
