@@ -59,8 +59,15 @@
 
 - Overlife
 	- .bit
-- 
-- 
+
+Como se requiere la presentación:
+
+Seguridad al hablar.
+Sin puntos en los títulos.
+Uso correcto de las comas y puntos.
+
+Toma de desiciones de la organizacion.
+
 
 	
 	

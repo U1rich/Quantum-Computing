@@ -21,5 +21,7 @@ $$\begin{equation}
 $$
 Normalizado significa que las probabilidades de los estados observables suman 1.
 La determinación de la probabilidad de los estados cuánticos es fundamental para la teoría cuántica de la información/teoría de la información cuántica.
-$$f(x_2)| \geq L*|x_1-x_2|$$
-$$\leq$$
+
+En la Cuantca el estado cero es representado por el Ket cero $$\bra0\ket{0}$$
+
+

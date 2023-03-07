@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Computación Cuantica.md",
+                "file": "Tesis/Computación Cuantica.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,14 +33,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Qubit.md",
+                "file": "Tesis/Qubit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae05f50c5ae1dd3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibliografia/Artículos/Quantum Computation Primer Part 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57085f56739f0c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tesis/Qubit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main/Qubit.md",
+                "file": "Bibliografia/Artículos/Quantum Computation Primer Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/Qubit.md",
+                "file": "Bibliografia/Artículos/Quantum Computation Primer Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Qubit.md"
+                "file": "Bibliografia/Artículos/Quantum Computation Primer Part 1.md"
               }
             }
           }
@@ -167,26 +191,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "081854552b75980a",
+  "active": "ae05f50c5ae1dd3c",
   "lastOpenFiles": [
+    "Tesis/Qubit.md",
+    "Herramientas/Latex/Latex Ej..md",
+    "Herramientas/Traducciones/English.md",
+    "Bibliografia/Artículos/Quantum Computation Primer Part 1.md",
+    "Herramientas/Traducciones/Ingles",
+    "Herramientas/Traducciones",
+    "Herramientas/Presentación/Presenación.md",
+    "Herramientas/Seminario",
+    "Herramientas/Latex",
+    "Protocolo",
     "Quantum-key.pub",
     "id_rsa_tesis.pub",
     "id_rsa_tesis",
     "Quantum-key",
-    "Main/Computación Cuantica.md",
-    "Main/Computacion Tradicional.md",
-    "Main/Qubit.md",
+    "Tesis/Computación Cuantica.md",
+    "Tesis/Computacion Tradicional.md",
     "Bibliografia/Index.md",
-    "Herramientas/Protocolo de Tesis.md",
+    "Herramientas/Protocolo/Protocolo de Tesis.md",
     "Bibliografia/Libros",
-    "Bibliografia/Artículos/Untitled",
-    "Bibliografia/Artículos",
-    "Main/Bit.md",
-    "Bibliografia/Artículos/Quantum Computation Primer Part 1.md",
-    "Herramientas/Seminario de Tesis.md",
-    "Herramientas/Presenación.md",
-    "Herramientas/Presentación",
-    "Herramientas/Protocolo",
+    "Tesis/Bit.md",
+    "Herramientas/Seminario/Seminario de Tesis.md",
     "Untitled.canvas",
     "Quantum Computing.md"
   ]
