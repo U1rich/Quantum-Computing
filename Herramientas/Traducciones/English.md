@@ -3,3 +3,4 @@ Though - Aunque
 Skimming - Ojeando
 Shorthand - Abreviada
 Conversely - Por el contrario
+Often - A menudo

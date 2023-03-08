@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibliografia/Artículos/Quantum Computation Primer Part 1.md",
+                "file": "Tesis/Qubit.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliografia/Artículos/Quantum Computation Primer Part 1.md",
+                "file": "Tesis/Qubit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bibliografia/Artículos/Quantum Computation Primer Part 1.md",
+                "file": "Tesis/Qubit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bibliografia/Artículos/Quantum Computation Primer Part 1.md"
+                "file": "Tesis/Qubit.md"
               }
             }
           }
@@ -193,10 +193,10 @@
   },
   "active": "ae05f50c5ae1dd3c",
   "lastOpenFiles": [
-    "Tesis/Qubit.md",
-    "Herramientas/Latex/Latex Ej..md",
     "Herramientas/Traducciones/English.md",
     "Bibliografia/Artículos/Quantum Computation Primer Part 1.md",
+    "Tesis/Qubit.md",
+    "Herramientas/Latex/Latex Ej..md",
     "Herramientas/Traducciones/Ingles",
     "Herramientas/Traducciones",
     "Herramientas/Presentación/Presenación.md",
