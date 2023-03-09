@@ -1,0 +1,1 @@
+$$\left< a | = | a \right>^\dagger = \begin{bmatrix} \overline{a_1} \\ \overline{a_2} \\ \vdots \\ \overline{a_d} \\ \end{bmatrix}^T = \begin{bmatrix} \overline{a_1} & \overline{a_2} & \ldots & \overline{a_d} \end{bmatrix}$$

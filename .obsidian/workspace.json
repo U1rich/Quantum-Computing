@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "3f696b48afb5e659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocolo/Protocolo de Tésis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "081854552b75980a",
             "type": "leaf",
             "state": {
@@ -52,19 +64,67 @@
             }
           },
           {
-            "id": "57085f56739f0c85",
+            "id": "4019254269f07204",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesis/Qubit.md",
+                "file": "Herramientas/Matemáticas/Producto Tensorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab5229b8f142472a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Herramientas/Traducciones/English.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1e7e82ac973bdb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Herramientas/Traducciones/English.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed54b7d37d843ee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tesis/Quantum Superposition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f822ef71a2f4e6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Herramientas/Matemáticas/Probabilidad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1f94405c049e6962",
@@ -130,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tesis/Qubit.md",
+                "file": "Protocolo/Protocolo de Tésis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tesis/Qubit.md",
+                "file": "Protocolo/Protocolo de Tésis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tesis/Qubit.md"
+                "file": "Protocolo/Protocolo de Tésis.md"
               }
             }
           }
@@ -191,12 +252,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ae05f50c5ae1dd3c",
+  "active": "3f696b48afb5e659",
   "lastOpenFiles": [
+    "Protocolo/Protocolo de Tésis.md",
+    "Herramientas/Matemáticas/Probabilidad.md",
+    "Tesis/Quantum Superposition.md",
+    "Herramientas/Matemáticas/Untitled",
     "Herramientas/Traducciones/English.md",
-    "Bibliografia/Artículos/Quantum Computation Primer Part 1.md",
+    "Tesis/Quantum Superpoition",
     "Tesis/Qubit.md",
+    "Herramientas/Matemáticas/Producto externo - Outer product.md",
+    "Herramientas/Matemáticas/Producto Tensorial.md",
+    "Herramientas/Matemáticas/Producto Interno - Inner Product.md",
+    "Herramientas/Matemáticas/Obtener un bra de un ket.md",
+    "Herramientas/Matemáticas",
+    "Tesis/Bit.md",
     "Herramientas/Latex/Latex Ej..md",
+    "Bibliografia/Artículos/Quantum Computation Primer Part 1.md",
     "Herramientas/Traducciones/Ingles",
     "Herramientas/Traducciones",
     "Herramientas/Presentación/Presenación.md",
@@ -205,14 +277,10 @@
     "Protocolo",
     "Quantum-key.pub",
     "id_rsa_tesis.pub",
-    "id_rsa_tesis",
-    "Quantum-key",
     "Tesis/Computación Cuantica.md",
     "Tesis/Computacion Tradicional.md",
     "Bibliografia/Index.md",
     "Herramientas/Protocolo/Protocolo de Tesis.md",
-    "Bibliografia/Libros",
-    "Tesis/Bit.md",
     "Herramientas/Seminario/Seminario de Tesis.md",
     "Untitled.canvas",
     "Quantum Computing.md"
